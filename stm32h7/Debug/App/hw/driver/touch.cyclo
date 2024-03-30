@@ -1,0 +1,6 @@
+../App/hw/driver/touch.c:35:6:touchInit	3
+../App/hw/driver/touch.c:55:6:touchClear	1
+../App/hw/driver/touch.c:64:6:touchGetInfo	5
+../App/hw/driver/touch.c:95:6:touchSetEnable	1
+../App/hw/driver/touch.c:101:6:touchGetEnable	1
+../App/hw/driver/touch.c:106:6:cliCmd	20

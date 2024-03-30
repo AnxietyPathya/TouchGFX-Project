@@ -1,0 +1,7 @@
+{
+  "files.associations": {
+    "qbuffer.h": "c",
+    "uart.h": "c"
+  },
+  "cortex-debug.armToolchainPath": "c:\\Users\\user\\AppData\\Roaming\\Code\\User\\globalStorage\\bmd.stm32-for-vscode\\@xpack-dev-tools\\arm-none-eabi-gcc\\13.2.1-1.1.1\\.content\\bin"
+}

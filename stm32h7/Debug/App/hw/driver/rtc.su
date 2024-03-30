@@ -1,0 +1,11 @@
+../App/hw/driver/rtc.c:17:6:rtcInit	16	static
+../App/hw/driver/rtc.c:45:6:rtcGetInfo	40	static
+../App/hw/driver/rtc.c:68:6:rtcGetTime	40	static
+../App/hw/driver/rtc.c:87:6:rtcGetDate	80	static
+../App/hw/driver/rtc.c:121:6:rtcSetTime	40	static
+../App/hw/driver/rtc.c:143:6:rtcSetDate	40	static
+../App/hw/driver/rtc.c:165:6:HAL_RTC_MspInit	200	static
+../App/hw/driver/rtc.c:185:6:rtcSetReg	16	static
+../App/hw/driver/rtc.c:198:6:rtcGetReg	16	static
+../App/hw/driver/rtc.c:211:6:HAL_RTC_MspDeInit	16	static
+../App/hw/driver/rtc.c:221:6:cliRtc	56	static

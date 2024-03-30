@@ -1,0 +1,10 @@
+../App/hw/driver/eeprom.c:25:6:eepromInit	16	static
+../App/hw/driver/eeprom.c:52:6:eepromIsInit	4	static
+../App/hw/driver/eeprom.c:57:6:eepromValid	40	static
+../App/hw/driver/eeprom.c:72:6:eepromReadByte	32	static
+../App/hw/driver/eeprom.c:86:6:eepromWriteByte	40	static
+../App/hw/driver/eeprom.c:114:6:eepromRead	32	static
+../App/hw/driver/eeprom.c:132:6:eepromWrite	32	static
+../App/hw/driver/eeprom.c:150:10:eepromGetLength	4	static
+../App/hw/driver/eeprom.c:155:6:eepromFormat	4	static
+../App/hw/driver/eeprom.c:164:6:cliEeprom	56	static

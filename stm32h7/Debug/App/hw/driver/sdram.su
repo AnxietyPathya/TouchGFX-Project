@@ -1,0 +1,6 @@
+../App/hw/driver/sdram.c:28:6:sdramInit	16	static
+../App/hw/driver/sdram.c:51:6:sdramIsInit	4	static
+../App/hw/driver/sdram.c:56:10:sdramGetAddr	4	static
+../App/hw/driver/sdram.c:61:10:sdramGetLength	4	static
+../App/hw/driver/sdram.c:66:6:sdramMemInit	24	static
+../App/hw/driver/sdram.c:197:6:cliSdram	40	static

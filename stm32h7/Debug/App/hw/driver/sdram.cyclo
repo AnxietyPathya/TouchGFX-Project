@@ -1,0 +1,6 @@
+../App/hw/driver/sdram.c:28:6:sdramInit	3
+../App/hw/driver/sdram.c:51:6:sdramIsInit	1
+../App/hw/driver/sdram.c:56:10:sdramGetAddr	1
+../App/hw/driver/sdram.c:61:10:sdramGetLength	1
+../App/hw/driver/sdram.c:66:6:sdramMemInit	6
+../App/hw/driver/sdram.c:197:6:cliSdram	14
