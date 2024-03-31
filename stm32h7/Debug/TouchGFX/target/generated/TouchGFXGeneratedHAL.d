@@ -47,22 +47,8 @@ TouchGFX/target/generated/TouchGFXGeneratedHAL.o: \
  ../Middlewares/ST/touchgfx/framework/include/mvp/MVPApplication.hpp \
  ../Middlewares/ST/touchgfx/framework/include/mvp/Presenter.hpp \
  ../Middlewares/ST/touchgfx/framework/include/touchgfx/Screen.hpp \
- ../TouchGFX/gui/include/gui/model/Model.hpp \
- ../TouchGFX/gui/include/gui/screen_screen/screenView.hpp \
- ../TouchGFX/generated/gui_generated/include/gui_generated/screen_screen/screenViewBase.hpp \
- ../Middlewares/ST/touchgfx/framework/include/mvp/View.hpp \
- ../TouchGFX/gui/include/gui/screen_screen/screenPresenter.hpp \
- ../TouchGFX/gui/include/gui/model/ModelListener.hpp \
- ../Middlewares/ST/touchgfx/framework/include/touchgfx/widgets/Box.hpp \
- ../Middlewares/ST/touchgfx/framework/include/touchgfx/widgets/Image.hpp \
- ../Middlewares/ST/touchgfx/framework/include/touchgfx/containers/clock/DigitalClock.hpp \
- ../Middlewares/ST/touchgfx/framework/include/touchgfx/TypedText.hpp \
- ../Middlewares/ST/touchgfx/framework/include/touchgfx/Texts.hpp \
- ../Middlewares/ST/touchgfx/framework/include/touchgfx/containers/clock/AbstractClock.hpp \
- ../Middlewares/ST/touchgfx/framework/include/touchgfx/widgets/TextAreaWithWildcard.hpp \
- ../Middlewares/ST/touchgfx/framework/include/touchgfx/widgets/TextArea.hpp \
- ../Core/Inc/rtc.h ../Core/Inc/main.h \
- ../Drivers/STM32H7xx_HAL_Driver/Inc/stm32h7xx_hal.h \
+ ../TouchGFX/gui/include/gui/model/Model.hpp ../Core/Inc/rtc.h \
+ ../Core/Inc/main.h ../Drivers/STM32H7xx_HAL_Driver/Inc/stm32h7xx_hal.h \
  ../Core/Inc/stm32h7xx_hal_conf.h \
  ../Drivers/STM32H7xx_HAL_Driver/Inc/stm32h7xx_hal_rcc.h \
  ../Drivers/STM32H7xx_HAL_Driver/Inc/stm32h7xx_hal_def.h \
@@ -106,12 +92,28 @@ TouchGFX/target/generated/TouchGFXGeneratedHAL.o: \
  ../Drivers/STM32H7xx_HAL_Driver/Inc/stm32h7xx_hal_tim_ex.h \
  ../Drivers/STM32H7xx_HAL_Driver/Inc/stm32h7xx_hal_uart.h \
  ../Drivers/STM32H7xx_HAL_Driver/Inc/stm32h7xx_hal_uart_ex.h \
- C:/Users/user/Documents/stm32h7/firmware/stm32h7/App/common/hw/include/rtc.h \
- C:/Users/user/Documents/stm32h7/firmware/stm32h7/App/hw/hw_def.h \
- C:/Users/user/Documents/stm32h7/firmware/stm32h7/App/bsp/bsp.h \
- C:/Users/user/Documents/stm32h7/firmware/stm32h7/App/common/def.h \
- C:/Users/user/Documents/stm32h7/firmware/stm32h7/App/common/err_code.h \
+ C:/Users/onste/Documents/TouchGFX-Project/stm32h7/App/common/hw/include/rtc.h \
+ C:/Users/onste/Documents/TouchGFX-Project/stm32h7/App/hw/hw_def.h \
+ C:/Users/onste/Documents/TouchGFX-Project/stm32h7/App/bsp/bsp.h \
+ C:/Users/onste/Documents/TouchGFX-Project/stm32h7/App/common/def.h \
+ C:/Users/onste/Documents/TouchGFX-Project/stm32h7/App/common/err_code.h \
  ../Core/Inc/main.h \
+ ../TouchGFX/gui/include/gui/screen_screen/screenView.hpp \
+ ../TouchGFX/generated/gui_generated/include/gui_generated/screen_screen/screenViewBase.hpp \
+ ../Middlewares/ST/touchgfx/framework/include/mvp/View.hpp \
+ ../TouchGFX/gui/include/gui/screen_screen/screenPresenter.hpp \
+ ../TouchGFX/gui/include/gui/model/ModelListener.hpp \
+ ../Middlewares/ST/touchgfx/framework/include/touchgfx/widgets/Box.hpp \
+ ../Middlewares/ST/touchgfx/framework/include/touchgfx/widgets/Image.hpp \
+ ../Middlewares/ST/touchgfx/framework/include/touchgfx/containers/clock/DigitalClock.hpp \
+ ../Middlewares/ST/touchgfx/framework/include/touchgfx/TypedText.hpp \
+ ../Middlewares/ST/touchgfx/framework/include/touchgfx/Texts.hpp \
+ ../Middlewares/ST/touchgfx/framework/include/touchgfx/containers/clock/AbstractClock.hpp \
+ ../Middlewares/ST/touchgfx/framework/include/touchgfx/widgets/TextAreaWithWildcard.hpp \
+ ../Middlewares/ST/touchgfx/framework/include/touchgfx/widgets/TextArea.hpp \
+ ../Middlewares/ST/touchgfx/framework/include/touchgfx/widgets/ButtonWithLabel.hpp \
+ ../Middlewares/ST/touchgfx/framework/include/touchgfx/widgets/Button.hpp \
+ ../Middlewares/ST/touchgfx/framework/include/touchgfx/widgets/AbstractButton.hpp \
  ../Middlewares/ST/touchgfx/framework/include/touchgfx/hal/GPIO.hpp
 ../TouchGFX/target/generated/TouchGFXGeneratedHAL.hpp:
 ../Middlewares/ST/touchgfx/framework/include/touchgfx/hal/HAL.hpp:
@@ -161,19 +163,6 @@ TouchGFX/target/generated/TouchGFXGeneratedHAL.o: \
 ../Middlewares/ST/touchgfx/framework/include/mvp/Presenter.hpp:
 ../Middlewares/ST/touchgfx/framework/include/touchgfx/Screen.hpp:
 ../TouchGFX/gui/include/gui/model/Model.hpp:
-../TouchGFX/gui/include/gui/screen_screen/screenView.hpp:
-../TouchGFX/generated/gui_generated/include/gui_generated/screen_screen/screenViewBase.hpp:
-../Middlewares/ST/touchgfx/framework/include/mvp/View.hpp:
-../TouchGFX/gui/include/gui/screen_screen/screenPresenter.hpp:
-../TouchGFX/gui/include/gui/model/ModelListener.hpp:
-../Middlewares/ST/touchgfx/framework/include/touchgfx/widgets/Box.hpp:
-../Middlewares/ST/touchgfx/framework/include/touchgfx/widgets/Image.hpp:
-../Middlewares/ST/touchgfx/framework/include/touchgfx/containers/clock/DigitalClock.hpp:
-../Middlewares/ST/touchgfx/framework/include/touchgfx/TypedText.hpp:
-../Middlewares/ST/touchgfx/framework/include/touchgfx/Texts.hpp:
-../Middlewares/ST/touchgfx/framework/include/touchgfx/containers/clock/AbstractClock.hpp:
-../Middlewares/ST/touchgfx/framework/include/touchgfx/widgets/TextAreaWithWildcard.hpp:
-../Middlewares/ST/touchgfx/framework/include/touchgfx/widgets/TextArea.hpp:
 ../Core/Inc/rtc.h:
 ../Core/Inc/main.h:
 ../Drivers/STM32H7xx_HAL_Driver/Inc/stm32h7xx_hal.h:
@@ -220,10 +209,26 @@ TouchGFX/target/generated/TouchGFXGeneratedHAL.o: \
 ../Drivers/STM32H7xx_HAL_Driver/Inc/stm32h7xx_hal_tim_ex.h:
 ../Drivers/STM32H7xx_HAL_Driver/Inc/stm32h7xx_hal_uart.h:
 ../Drivers/STM32H7xx_HAL_Driver/Inc/stm32h7xx_hal_uart_ex.h:
-C:/Users/user/Documents/stm32h7/firmware/stm32h7/App/common/hw/include/rtc.h:
-C:/Users/user/Documents/stm32h7/firmware/stm32h7/App/hw/hw_def.h:
-C:/Users/user/Documents/stm32h7/firmware/stm32h7/App/bsp/bsp.h:
-C:/Users/user/Documents/stm32h7/firmware/stm32h7/App/common/def.h:
-C:/Users/user/Documents/stm32h7/firmware/stm32h7/App/common/err_code.h:
+C:/Users/onste/Documents/TouchGFX-Project/stm32h7/App/common/hw/include/rtc.h:
+C:/Users/onste/Documents/TouchGFX-Project/stm32h7/App/hw/hw_def.h:
+C:/Users/onste/Documents/TouchGFX-Project/stm32h7/App/bsp/bsp.h:
+C:/Users/onste/Documents/TouchGFX-Project/stm32h7/App/common/def.h:
+C:/Users/onste/Documents/TouchGFX-Project/stm32h7/App/common/err_code.h:
 ../Core/Inc/main.h:
+../TouchGFX/gui/include/gui/screen_screen/screenView.hpp:
+../TouchGFX/generated/gui_generated/include/gui_generated/screen_screen/screenViewBase.hpp:
+../Middlewares/ST/touchgfx/framework/include/mvp/View.hpp:
+../TouchGFX/gui/include/gui/screen_screen/screenPresenter.hpp:
+../TouchGFX/gui/include/gui/model/ModelListener.hpp:
+../Middlewares/ST/touchgfx/framework/include/touchgfx/widgets/Box.hpp:
+../Middlewares/ST/touchgfx/framework/include/touchgfx/widgets/Image.hpp:
+../Middlewares/ST/touchgfx/framework/include/touchgfx/containers/clock/DigitalClock.hpp:
+../Middlewares/ST/touchgfx/framework/include/touchgfx/TypedText.hpp:
+../Middlewares/ST/touchgfx/framework/include/touchgfx/Texts.hpp:
+../Middlewares/ST/touchgfx/framework/include/touchgfx/containers/clock/AbstractClock.hpp:
+../Middlewares/ST/touchgfx/framework/include/touchgfx/widgets/TextAreaWithWildcard.hpp:
+../Middlewares/ST/touchgfx/framework/include/touchgfx/widgets/TextArea.hpp:
+../Middlewares/ST/touchgfx/framework/include/touchgfx/widgets/ButtonWithLabel.hpp:
+../Middlewares/ST/touchgfx/framework/include/touchgfx/widgets/Button.hpp:
+../Middlewares/ST/touchgfx/framework/include/touchgfx/widgets/AbstractButton.hpp:
 ../Middlewares/ST/touchgfx/framework/include/touchgfx/hal/GPIO.hpp:

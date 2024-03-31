@@ -14,6 +14,8 @@ public:
     {
         model = m;
     }
+
+    virtual void getTimeInfo(rtc_info_t* p_time) {}
 protected:
     Model* model;
 };

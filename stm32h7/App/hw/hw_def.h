@@ -9,6 +9,8 @@
 #define _DEF_FIRMWATRE_VERSION    "V240320R1"
 #define _DEF_BOARD_NAME           "STM32H7"
 
+#define _LOG_BAUD_RATE            115200
+#define _CLI_BAUD_RATE            115200
 
 #define _USE_HW_FT5206
 #define _USE_HW_QSPI

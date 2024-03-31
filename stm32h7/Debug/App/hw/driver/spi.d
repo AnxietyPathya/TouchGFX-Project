@@ -43,11 +43,11 @@ App/hw/driver/spi.o: ../App/hw/driver/spi.c ../Core/Inc/spi.h \
  ../Drivers/STM32H7xx_HAL_Driver/Inc/stm32h7xx_hal_tim_ex.h \
  ../Drivers/STM32H7xx_HAL_Driver/Inc/stm32h7xx_hal_uart.h \
  ../Drivers/STM32H7xx_HAL_Driver/Inc/stm32h7xx_hal_uart_ex.h \
- C:/Users/user/Documents/stm32h7/firmware/stm32h7/App/common/hw/include/spi.h \
- C:/Users/user/Documents/stm32h7/firmware/stm32h7/App/hw/hw_def.h \
- C:/Users/user/Documents/stm32h7/firmware/stm32h7/App/bsp/bsp.h \
- C:/Users/user/Documents/stm32h7/firmware/stm32h7/App/common/def.h \
- C:/Users/user/Documents/stm32h7/firmware/stm32h7/App/common/err_code.h \
+ C:/Users/onste/Documents/TouchGFX-Project/stm32h7/App/common/hw/include/spi.h \
+ C:/Users/onste/Documents/TouchGFX-Project/stm32h7/App/hw/hw_def.h \
+ C:/Users/onste/Documents/TouchGFX-Project/stm32h7/App/bsp/bsp.h \
+ C:/Users/onste/Documents/TouchGFX-Project/stm32h7/App/common/def.h \
+ C:/Users/onste/Documents/TouchGFX-Project/stm32h7/App/common/err_code.h \
  ../Core/Inc/main.h \
  ../Drivers/STM32H7xx_HAL_Driver/Inc/stm32h7xx_ll_spi.h
 ../Core/Inc/spi.h:
@@ -96,10 +96,10 @@ App/hw/driver/spi.o: ../App/hw/driver/spi.c ../Core/Inc/spi.h \
 ../Drivers/STM32H7xx_HAL_Driver/Inc/stm32h7xx_hal_tim_ex.h:
 ../Drivers/STM32H7xx_HAL_Driver/Inc/stm32h7xx_hal_uart.h:
 ../Drivers/STM32H7xx_HAL_Driver/Inc/stm32h7xx_hal_uart_ex.h:
-C:/Users/user/Documents/stm32h7/firmware/stm32h7/App/common/hw/include/spi.h:
-C:/Users/user/Documents/stm32h7/firmware/stm32h7/App/hw/hw_def.h:
-C:/Users/user/Documents/stm32h7/firmware/stm32h7/App/bsp/bsp.h:
-C:/Users/user/Documents/stm32h7/firmware/stm32h7/App/common/def.h:
-C:/Users/user/Documents/stm32h7/firmware/stm32h7/App/common/err_code.h:
+C:/Users/onste/Documents/TouchGFX-Project/stm32h7/App/common/hw/include/spi.h:
+C:/Users/onste/Documents/TouchGFX-Project/stm32h7/App/hw/hw_def.h:
+C:/Users/onste/Documents/TouchGFX-Project/stm32h7/App/bsp/bsp.h:
+C:/Users/onste/Documents/TouchGFX-Project/stm32h7/App/common/def.h:
+C:/Users/onste/Documents/TouchGFX-Project/stm32h7/App/common/err_code.h:
 ../Core/Inc/main.h:
 ../Drivers/STM32H7xx_HAL_Driver/Inc/stm32h7xx_ll_spi.h:

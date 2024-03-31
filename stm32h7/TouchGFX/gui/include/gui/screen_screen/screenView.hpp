@@ -3,7 +3,7 @@
 
 #include <gui_generated/screen_screen/screenViewBase.hpp>
 #include <gui/screen_screen/screenPresenter.hpp>
-#include "rtc.h"
+
 class screenView : public screenViewBase
 {
 public:
@@ -11,7 +11,7 @@ public:
     virtual ~screenView() {}
     virtual void setupScreen();
     virtual void tearDownScreen();
-    void handleTickEvent();
+    void updateTime(rtc_info_t* p_time);
 protected:
     rtc_info_t time_info;
 };

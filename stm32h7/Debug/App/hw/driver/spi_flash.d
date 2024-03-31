@@ -1,9 +1,9 @@
 App/hw/driver/spi_flash.o: ../App/hw/driver/spi_flash.c \
- C:/Users/user/Documents/stm32h7/firmware/stm32h7/App/common/hw/include/spi_flash.h \
- C:/Users/user/Documents/stm32h7/firmware/stm32h7/App/hw/hw_def.h \
- C:/Users/user/Documents/stm32h7/firmware/stm32h7/App/bsp/bsp.h \
- C:/Users/user/Documents/stm32h7/firmware/stm32h7/App/common/def.h \
- C:/Users/user/Documents/stm32h7/firmware/stm32h7/App/common/err_code.h \
+ C:/Users/onste/Documents/TouchGFX-Project/stm32h7/App/common/hw/include/spi_flash.h \
+ C:/Users/onste/Documents/TouchGFX-Project/stm32h7/App/hw/hw_def.h \
+ C:/Users/onste/Documents/TouchGFX-Project/stm32h7/App/bsp/bsp.h \
+ C:/Users/onste/Documents/TouchGFX-Project/stm32h7/App/common/def.h \
+ C:/Users/onste/Documents/TouchGFX-Project/stm32h7/App/common/err_code.h \
  ../Drivers/CMSIS/Device/ST/STM32H7xx/Include/stm32h7xx.h \
  ../Drivers/CMSIS/Device/ST/STM32H7xx/Include/stm32h723xx.h \
  ../Drivers/CMSIS/Include/core_cm7.h \
@@ -49,18 +49,18 @@ App/hw/driver/spi_flash.o: ../App/hw/driver/spi_flash.c \
  ../Drivers/STM32H7xx_HAL_Driver/Inc/stm32h7xx_hal_uart.h \
  ../Drivers/STM32H7xx_HAL_Driver/Inc/stm32h7xx_hal_uart_ex.h \
  ../Core/Inc/main.h \
- C:/Users/user/Documents/stm32h7/firmware/stm32h7/App/common/hw/include/qspi/w25q256jv.h \
- C:/Users/user/Documents/stm32h7/firmware/stm32h7/App/common/hw/include/qspi/w25q128fv.h \
+ C:/Users/onste/Documents/TouchGFX-Project/stm32h7/App/common/hw/include/qspi/w25q256jv.h \
+ C:/Users/onste/Documents/TouchGFX-Project/stm32h7/App/common/hw/include/qspi/w25q128fv.h \
  ../Core/Inc/spi.h ../Core/Inc/main.h \
- C:/Users/user/Documents/stm32h7/firmware/stm32h7/App/common/hw/include/spi.h \
+ C:/Users/onste/Documents/TouchGFX-Project/stm32h7/App/common/hw/include/spi.h \
  ../Core/Inc/gpio.h \
- C:/Users/user/Documents/stm32h7/firmware/stm32h7/App/common/hw/include/gpio.h \
- C:/Users/user/Documents/stm32h7/firmware/stm32h7/App/common/hw/include/cli.h
-C:/Users/user/Documents/stm32h7/firmware/stm32h7/App/common/hw/include/spi_flash.h:
-C:/Users/user/Documents/stm32h7/firmware/stm32h7/App/hw/hw_def.h:
-C:/Users/user/Documents/stm32h7/firmware/stm32h7/App/bsp/bsp.h:
-C:/Users/user/Documents/stm32h7/firmware/stm32h7/App/common/def.h:
-C:/Users/user/Documents/stm32h7/firmware/stm32h7/App/common/err_code.h:
+ C:/Users/onste/Documents/TouchGFX-Project/stm32h7/App/common/hw/include/gpio.h \
+ C:/Users/onste/Documents/TouchGFX-Project/stm32h7/App/common/hw/include/cli.h
+C:/Users/onste/Documents/TouchGFX-Project/stm32h7/App/common/hw/include/spi_flash.h:
+C:/Users/onste/Documents/TouchGFX-Project/stm32h7/App/hw/hw_def.h:
+C:/Users/onste/Documents/TouchGFX-Project/stm32h7/App/bsp/bsp.h:
+C:/Users/onste/Documents/TouchGFX-Project/stm32h7/App/common/def.h:
+C:/Users/onste/Documents/TouchGFX-Project/stm32h7/App/common/err_code.h:
 ../Drivers/CMSIS/Device/ST/STM32H7xx/Include/stm32h7xx.h:
 ../Drivers/CMSIS/Device/ST/STM32H7xx/Include/stm32h723xx.h:
 ../Drivers/CMSIS/Include/core_cm7.h:
@@ -106,11 +106,11 @@ C:/Users/user/Documents/stm32h7/firmware/stm32h7/App/common/err_code.h:
 ../Drivers/STM32H7xx_HAL_Driver/Inc/stm32h7xx_hal_uart.h:
 ../Drivers/STM32H7xx_HAL_Driver/Inc/stm32h7xx_hal_uart_ex.h:
 ../Core/Inc/main.h:
-C:/Users/user/Documents/stm32h7/firmware/stm32h7/App/common/hw/include/qspi/w25q256jv.h:
-C:/Users/user/Documents/stm32h7/firmware/stm32h7/App/common/hw/include/qspi/w25q128fv.h:
+C:/Users/onste/Documents/TouchGFX-Project/stm32h7/App/common/hw/include/qspi/w25q256jv.h:
+C:/Users/onste/Documents/TouchGFX-Project/stm32h7/App/common/hw/include/qspi/w25q128fv.h:
 ../Core/Inc/spi.h:
 ../Core/Inc/main.h:
-C:/Users/user/Documents/stm32h7/firmware/stm32h7/App/common/hw/include/spi.h:
+C:/Users/onste/Documents/TouchGFX-Project/stm32h7/App/common/hw/include/spi.h:
 ../Core/Inc/gpio.h:
-C:/Users/user/Documents/stm32h7/firmware/stm32h7/App/common/hw/include/gpio.h:
-C:/Users/user/Documents/stm32h7/firmware/stm32h7/App/common/hw/include/cli.h:
+C:/Users/onste/Documents/TouchGFX-Project/stm32h7/App/common/hw/include/gpio.h:
+C:/Users/onste/Documents/TouchGFX-Project/stm32h7/App/common/hw/include/cli.h:

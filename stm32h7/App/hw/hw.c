@@ -30,9 +30,9 @@ bool hwInit(void)
   uartInit();
   for (int i=0; i<HW_UART_MAX_CH; i++)
   {
-    uartOpen(i, 115200);
+    uartOpen(i, _LOG_BAUD_RATE);
   }
-  logOpen(HW_LOG_CH, 115200);
+  logOpen(HW_LOG_CH, _LOG_BAUD_RATE);
   logPrintf("\r\n[ Firmware Begin... ]\r\n");
   logPrintf("Booting..Name \t\t: %s\r\n", _DEF_BOARD_NAME);
   logPrintf("Booting..Ver  \t\t: %s\r\n", _DEF_FIRMWATRE_VERSION);

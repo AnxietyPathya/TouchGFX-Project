@@ -3,6 +3,11 @@
 
 class ModelListener;
 
+extern "C"
+{
+    #include "rtc.h"
+}
+
 class Model
 {
 public:
@@ -16,6 +21,7 @@ public:
     void tick();
 protected:
     ModelListener* modelListener;
+    rtc_info_t info;
 };
 
 #endif // MODEL_HPP

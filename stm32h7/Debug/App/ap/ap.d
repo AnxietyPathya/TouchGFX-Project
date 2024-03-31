@@ -1,9 +1,9 @@
 App/ap/ap.o: ../App/ap/ap.c ../App/ap/ap.h ../App/ap/ap_def.h \
- C:/Users/user/Documents/stm32h7/firmware/stm32h7/App/hw/hw.h \
- C:/Users/user/Documents/stm32h7/firmware/stm32h7/App/hw/hw_def.h \
- C:/Users/user/Documents/stm32h7/firmware/stm32h7/App/bsp/bsp.h \
- C:/Users/user/Documents/stm32h7/firmware/stm32h7/App/common/def.h \
- C:/Users/user/Documents/stm32h7/firmware/stm32h7/App/common/err_code.h \
+ C:/Users/onste/Documents/TouchGFX-Project/stm32h7/App/hw/hw.h \
+ C:/Users/onste/Documents/TouchGFX-Project/stm32h7/App/hw/hw_def.h \
+ C:/Users/onste/Documents/TouchGFX-Project/stm32h7/App/bsp/bsp.h \
+ C:/Users/onste/Documents/TouchGFX-Project/stm32h7/App/common/def.h \
+ C:/Users/onste/Documents/TouchGFX-Project/stm32h7/App/common/err_code.h \
  ../Drivers/CMSIS/Device/ST/STM32H7xx/Include/stm32h7xx.h \
  ../Drivers/CMSIS/Device/ST/STM32H7xx/Include/stm32h723xx.h \
  ../Drivers/CMSIS/Include/core_cm7.h \
@@ -49,52 +49,52 @@ App/ap/ap.o: ../App/ap/ap.c ../App/ap/ap.h ../App/ap/ap_def.h \
  ../Drivers/STM32H7xx_HAL_Driver/Inc/stm32h7xx_hal_uart.h \
  ../Drivers/STM32H7xx_HAL_Driver/Inc/stm32h7xx_hal_uart_ex.h \
  ../Core/Inc/main.h \
- C:/Users/user/Documents/stm32h7/firmware/stm32h7/App/common/hw/include/led.h \
- C:/Users/user/Documents/stm32h7/firmware/stm32h7/App/hw/hw_def.h \
- C:/Users/user/Documents/stm32h7/firmware/stm32h7/App/common/hw/include/uart.h \
- C:/Users/user/Documents/stm32h7/firmware/stm32h7/App/common/hw/include/cli.h \
- C:/Users/user/Documents/stm32h7/firmware/stm32h7/App/common/hw/include/log.h \
- C:/Users/user/Documents/stm32h7/firmware/stm32h7/App/common/hw/include/button.h \
- C:/Users/user/Documents/stm32h7/firmware/stm32h7/App/common/core/qbuffer.h \
- C:/Users/user/Documents/stm32h7/firmware/stm32h7/App/common/hw/include/swtimer.h \
+ C:/Users/onste/Documents/TouchGFX-Project/stm32h7/App/common/hw/include/led.h \
+ C:/Users/onste/Documents/TouchGFX-Project/stm32h7/App/hw/hw_def.h \
+ C:/Users/onste/Documents/TouchGFX-Project/stm32h7/App/common/hw/include/uart.h \
+ C:/Users/onste/Documents/TouchGFX-Project/stm32h7/App/common/hw/include/cli.h \
+ C:/Users/onste/Documents/TouchGFX-Project/stm32h7/App/common/hw/include/log.h \
+ C:/Users/onste/Documents/TouchGFX-Project/stm32h7/App/common/hw/include/button.h \
+ C:/Users/onste/Documents/TouchGFX-Project/stm32h7/App/common/core/qbuffer.h \
+ C:/Users/onste/Documents/TouchGFX-Project/stm32h7/App/common/hw/include/swtimer.h \
  ../Core/Inc/gpio.h ../Core/Inc/main.h \
- C:/Users/user/Documents/stm32h7/firmware/stm32h7/App/common/hw/include/gpio.h \
- C:/Users/user/Documents/stm32h7/firmware/stm32h7/App/common/hw/include/flash.h \
- C:/Users/user/Documents/stm32h7/firmware/stm32h7/App/common/hw/include/fault.h \
- C:/Users/user/Documents/stm32h7/firmware/stm32h7/App/common/hw/include/qspi.h \
- C:/Users/user/Documents/stm32h7/firmware/stm32h7/App/common/hw/include/fs.h \
- C:/Users/user/Documents/stm32h7/firmware/stm32h7/App/common/hw/include/sd.h \
- C:/Users/user/Documents/stm32h7/firmware/stm32h7/App/common/hw/include/fatfs.h \
+ C:/Users/onste/Documents/TouchGFX-Project/stm32h7/App/common/hw/include/gpio.h \
+ C:/Users/onste/Documents/TouchGFX-Project/stm32h7/App/common/hw/include/flash.h \
+ C:/Users/onste/Documents/TouchGFX-Project/stm32h7/App/common/hw/include/fault.h \
+ C:/Users/onste/Documents/TouchGFX-Project/stm32h7/App/common/hw/include/qspi.h \
+ C:/Users/onste/Documents/TouchGFX-Project/stm32h7/App/common/hw/include/fs.h \
+ C:/Users/onste/Documents/TouchGFX-Project/stm32h7/App/common/hw/include/sd.h \
+ C:/Users/onste/Documents/TouchGFX-Project/stm32h7/App/common/hw/include/fatfs.h \
  ../Core/Inc/i2c.h \
- C:/Users/user/Documents/stm32h7/firmware/stm32h7/App/common/hw/include/i2c.h \
- C:/Users/user/Documents/stm32h7/firmware/stm32h7/App/common/hw/include/i2s.h \
- C:/Users/user/Documents/stm32h7/firmware/stm32h7/App/common/hw/include/sai.h \
+ C:/Users/onste/Documents/TouchGFX-Project/stm32h7/App/common/hw/include/i2c.h \
+ C:/Users/onste/Documents/TouchGFX-Project/stm32h7/App/common/hw/include/i2s.h \
+ C:/Users/onste/Documents/TouchGFX-Project/stm32h7/App/common/hw/include/sai.h \
  ../Core/Inc/spi.h \
- C:/Users/user/Documents/stm32h7/firmware/stm32h7/App/common/hw/include/spi.h \
- C:/Users/user/Documents/stm32h7/firmware/stm32h7/App/common/hw/include/lcd.h \
- C:/Users/user/Documents/stm32h7/firmware/stm32h7/App/common/hw/include/pwm.h \
- C:/Users/user/Documents/stm32h7/firmware/stm32h7/App/common/hw/include/nvs.h \
- C:/Users/user/Documents/stm32h7/firmware/stm32h7/App/common/hw/include/cdc.h \
+ C:/Users/onste/Documents/TouchGFX-Project/stm32h7/App/common/hw/include/spi.h \
+ C:/Users/onste/Documents/TouchGFX-Project/stm32h7/App/common/hw/include/lcd.h \
+ C:/Users/onste/Documents/TouchGFX-Project/stm32h7/App/common/hw/include/pwm.h \
+ C:/Users/onste/Documents/TouchGFX-Project/stm32h7/App/common/hw/include/nvs.h \
+ C:/Users/onste/Documents/TouchGFX-Project/stm32h7/App/common/hw/include/cdc.h \
  ../Core/Inc/rtc.h \
- C:/Users/user/Documents/stm32h7/firmware/stm32h7/App/common/hw/include/rtc.h \
- C:/Users/user/Documents/stm32h7/firmware/stm32h7/App/common/hw/include/reset.h \
- C:/Users/user/Documents/stm32h7/firmware/stm32h7/App/common/hw/include/cmd.h \
- C:/Users/user/Documents/stm32h7/firmware/stm32h7/App/common/core/util.h \
- C:/Users/user/Documents/stm32h7/firmware/stm32h7/App/common/hw/include/eeprom.h \
+ C:/Users/onste/Documents/TouchGFX-Project/stm32h7/App/common/hw/include/rtc.h \
+ C:/Users/onste/Documents/TouchGFX-Project/stm32h7/App/common/hw/include/reset.h \
+ C:/Users/onste/Documents/TouchGFX-Project/stm32h7/App/common/hw/include/cmd.h \
+ C:/Users/onste/Documents/TouchGFX-Project/stm32h7/App/common/core/util.h \
+ C:/Users/onste/Documents/TouchGFX-Project/stm32h7/App/common/hw/include/eeprom.h \
  ../Core/Inc/fmc.h \
- C:/Users/user/Documents/stm32h7/firmware/stm32h7/App/common/hw/include/sdram.h \
- C:/Users/user/Documents/stm32h7/firmware/stm32h7/App/common/hw/include/spi_flash.h \
- C:/Users/user/Documents/stm32h7/firmware/stm32h7/App/common/hw/include/touch.h \
+ C:/Users/onste/Documents/TouchGFX-Project/stm32h7/App/common/hw/include/sdram.h \
+ C:/Users/onste/Documents/TouchGFX-Project/stm32h7/App/common/hw/include/spi_flash.h \
+ C:/Users/onste/Documents/TouchGFX-Project/stm32h7/App/common/hw/include/touch.h \
  ../Core/Inc/ltdc.h \
- C:/Users/user/Documents/stm32h7/firmware/stm32h7/App/common/hw/include/pdm.h \
- C:/Users/user/Documents/stm32h7/firmware/stm32h7/App/common/hw/include/mem.h
+ C:/Users/onste/Documents/TouchGFX-Project/stm32h7/App/common/hw/include/pdm.h \
+ C:/Users/onste/Documents/TouchGFX-Project/stm32h7/App/common/hw/include/mem.h
 ../App/ap/ap.h:
 ../App/ap/ap_def.h:
-C:/Users/user/Documents/stm32h7/firmware/stm32h7/App/hw/hw.h:
-C:/Users/user/Documents/stm32h7/firmware/stm32h7/App/hw/hw_def.h:
-C:/Users/user/Documents/stm32h7/firmware/stm32h7/App/bsp/bsp.h:
-C:/Users/user/Documents/stm32h7/firmware/stm32h7/App/common/def.h:
-C:/Users/user/Documents/stm32h7/firmware/stm32h7/App/common/err_code.h:
+C:/Users/onste/Documents/TouchGFX-Project/stm32h7/App/hw/hw.h:
+C:/Users/onste/Documents/TouchGFX-Project/stm32h7/App/hw/hw_def.h:
+C:/Users/onste/Documents/TouchGFX-Project/stm32h7/App/bsp/bsp.h:
+C:/Users/onste/Documents/TouchGFX-Project/stm32h7/App/common/def.h:
+C:/Users/onste/Documents/TouchGFX-Project/stm32h7/App/common/err_code.h:
 ../Drivers/CMSIS/Device/ST/STM32H7xx/Include/stm32h7xx.h:
 ../Drivers/CMSIS/Device/ST/STM32H7xx/Include/stm32h723xx.h:
 ../Drivers/CMSIS/Include/core_cm7.h:
@@ -140,43 +140,43 @@ C:/Users/user/Documents/stm32h7/firmware/stm32h7/App/common/err_code.h:
 ../Drivers/STM32H7xx_HAL_Driver/Inc/stm32h7xx_hal_uart.h:
 ../Drivers/STM32H7xx_HAL_Driver/Inc/stm32h7xx_hal_uart_ex.h:
 ../Core/Inc/main.h:
-C:/Users/user/Documents/stm32h7/firmware/stm32h7/App/common/hw/include/led.h:
-C:/Users/user/Documents/stm32h7/firmware/stm32h7/App/hw/hw_def.h:
-C:/Users/user/Documents/stm32h7/firmware/stm32h7/App/common/hw/include/uart.h:
-C:/Users/user/Documents/stm32h7/firmware/stm32h7/App/common/hw/include/cli.h:
-C:/Users/user/Documents/stm32h7/firmware/stm32h7/App/common/hw/include/log.h:
-C:/Users/user/Documents/stm32h7/firmware/stm32h7/App/common/hw/include/button.h:
-C:/Users/user/Documents/stm32h7/firmware/stm32h7/App/common/core/qbuffer.h:
-C:/Users/user/Documents/stm32h7/firmware/stm32h7/App/common/hw/include/swtimer.h:
+C:/Users/onste/Documents/TouchGFX-Project/stm32h7/App/common/hw/include/led.h:
+C:/Users/onste/Documents/TouchGFX-Project/stm32h7/App/hw/hw_def.h:
+C:/Users/onste/Documents/TouchGFX-Project/stm32h7/App/common/hw/include/uart.h:
+C:/Users/onste/Documents/TouchGFX-Project/stm32h7/App/common/hw/include/cli.h:
+C:/Users/onste/Documents/TouchGFX-Project/stm32h7/App/common/hw/include/log.h:
+C:/Users/onste/Documents/TouchGFX-Project/stm32h7/App/common/hw/include/button.h:
+C:/Users/onste/Documents/TouchGFX-Project/stm32h7/App/common/core/qbuffer.h:
+C:/Users/onste/Documents/TouchGFX-Project/stm32h7/App/common/hw/include/swtimer.h:
 ../Core/Inc/gpio.h:
 ../Core/Inc/main.h:
-C:/Users/user/Documents/stm32h7/firmware/stm32h7/App/common/hw/include/gpio.h:
-C:/Users/user/Documents/stm32h7/firmware/stm32h7/App/common/hw/include/flash.h:
-C:/Users/user/Documents/stm32h7/firmware/stm32h7/App/common/hw/include/fault.h:
-C:/Users/user/Documents/stm32h7/firmware/stm32h7/App/common/hw/include/qspi.h:
-C:/Users/user/Documents/stm32h7/firmware/stm32h7/App/common/hw/include/fs.h:
-C:/Users/user/Documents/stm32h7/firmware/stm32h7/App/common/hw/include/sd.h:
-C:/Users/user/Documents/stm32h7/firmware/stm32h7/App/common/hw/include/fatfs.h:
+C:/Users/onste/Documents/TouchGFX-Project/stm32h7/App/common/hw/include/gpio.h:
+C:/Users/onste/Documents/TouchGFX-Project/stm32h7/App/common/hw/include/flash.h:
+C:/Users/onste/Documents/TouchGFX-Project/stm32h7/App/common/hw/include/fault.h:
+C:/Users/onste/Documents/TouchGFX-Project/stm32h7/App/common/hw/include/qspi.h:
+C:/Users/onste/Documents/TouchGFX-Project/stm32h7/App/common/hw/include/fs.h:
+C:/Users/onste/Documents/TouchGFX-Project/stm32h7/App/common/hw/include/sd.h:
+C:/Users/onste/Documents/TouchGFX-Project/stm32h7/App/common/hw/include/fatfs.h:
 ../Core/Inc/i2c.h:
-C:/Users/user/Documents/stm32h7/firmware/stm32h7/App/common/hw/include/i2c.h:
-C:/Users/user/Documents/stm32h7/firmware/stm32h7/App/common/hw/include/i2s.h:
-C:/Users/user/Documents/stm32h7/firmware/stm32h7/App/common/hw/include/sai.h:
+C:/Users/onste/Documents/TouchGFX-Project/stm32h7/App/common/hw/include/i2c.h:
+C:/Users/onste/Documents/TouchGFX-Project/stm32h7/App/common/hw/include/i2s.h:
+C:/Users/onste/Documents/TouchGFX-Project/stm32h7/App/common/hw/include/sai.h:
 ../Core/Inc/spi.h:
-C:/Users/user/Documents/stm32h7/firmware/stm32h7/App/common/hw/include/spi.h:
-C:/Users/user/Documents/stm32h7/firmware/stm32h7/App/common/hw/include/lcd.h:
-C:/Users/user/Documents/stm32h7/firmware/stm32h7/App/common/hw/include/pwm.h:
-C:/Users/user/Documents/stm32h7/firmware/stm32h7/App/common/hw/include/nvs.h:
-C:/Users/user/Documents/stm32h7/firmware/stm32h7/App/common/hw/include/cdc.h:
+C:/Users/onste/Documents/TouchGFX-Project/stm32h7/App/common/hw/include/spi.h:
+C:/Users/onste/Documents/TouchGFX-Project/stm32h7/App/common/hw/include/lcd.h:
+C:/Users/onste/Documents/TouchGFX-Project/stm32h7/App/common/hw/include/pwm.h:
+C:/Users/onste/Documents/TouchGFX-Project/stm32h7/App/common/hw/include/nvs.h:
+C:/Users/onste/Documents/TouchGFX-Project/stm32h7/App/common/hw/include/cdc.h:
 ../Core/Inc/rtc.h:
-C:/Users/user/Documents/stm32h7/firmware/stm32h7/App/common/hw/include/rtc.h:
-C:/Users/user/Documents/stm32h7/firmware/stm32h7/App/common/hw/include/reset.h:
-C:/Users/user/Documents/stm32h7/firmware/stm32h7/App/common/hw/include/cmd.h:
-C:/Users/user/Documents/stm32h7/firmware/stm32h7/App/common/core/util.h:
-C:/Users/user/Documents/stm32h7/firmware/stm32h7/App/common/hw/include/eeprom.h:
+C:/Users/onste/Documents/TouchGFX-Project/stm32h7/App/common/hw/include/rtc.h:
+C:/Users/onste/Documents/TouchGFX-Project/stm32h7/App/common/hw/include/reset.h:
+C:/Users/onste/Documents/TouchGFX-Project/stm32h7/App/common/hw/include/cmd.h:
+C:/Users/onste/Documents/TouchGFX-Project/stm32h7/App/common/core/util.h:
+C:/Users/onste/Documents/TouchGFX-Project/stm32h7/App/common/hw/include/eeprom.h:
 ../Core/Inc/fmc.h:
-C:/Users/user/Documents/stm32h7/firmware/stm32h7/App/common/hw/include/sdram.h:
-C:/Users/user/Documents/stm32h7/firmware/stm32h7/App/common/hw/include/spi_flash.h:
-C:/Users/user/Documents/stm32h7/firmware/stm32h7/App/common/hw/include/touch.h:
+C:/Users/onste/Documents/TouchGFX-Project/stm32h7/App/common/hw/include/sdram.h:
+C:/Users/onste/Documents/TouchGFX-Project/stm32h7/App/common/hw/include/spi_flash.h:
+C:/Users/onste/Documents/TouchGFX-Project/stm32h7/App/common/hw/include/touch.h:
 ../Core/Inc/ltdc.h:
-C:/Users/user/Documents/stm32h7/firmware/stm32h7/App/common/hw/include/pdm.h:
-C:/Users/user/Documents/stm32h7/firmware/stm32h7/App/common/hw/include/mem.h:
+C:/Users/onste/Documents/TouchGFX-Project/stm32h7/App/common/hw/include/pdm.h:
+C:/Users/onste/Documents/TouchGFX-Project/stm32h7/App/common/hw/include/mem.h:

@@ -10,6 +10,7 @@
 #include <touchgfx/widgets/Box.hpp>
 #include <touchgfx/widgets/Image.hpp>
 #include <touchgfx/containers/clock/DigitalClock.hpp>
+#include <touchgfx/widgets/ButtonWithLabel.hpp>
 
 class screenViewBase : public touchgfx::View<screenPresenter>
 {
@@ -27,8 +28,9 @@ protected:
      * Member Declarations
      */
     touchgfx::Box __background;
-    touchgfx::Image image1;
-    touchgfx::DigitalClock digitalClock1;
+    touchgfx::Image Background;
+    touchgfx::DigitalClock clock;
+    touchgfx::ButtonWithLabel startButton;
 
 private:
 
