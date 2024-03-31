@@ -1,6 +1,6 @@
 App/bsp/bsp.o: ../App/bsp/bsp.c ../App/bsp/bsp.h \
- C:/Users/user/Documents/stm32h7/firmware/stm32h7/App/common/def.h \
- C:/Users/user/Documents/stm32h7/firmware/stm32h7/App/common/err_code.h \
+ C:/Users/onste/Documents/TouchGFX-Project/stm32h7/App/common/def.h \
+ C:/Users/onste/Documents/TouchGFX-Project/stm32h7/App/common/err_code.h \
  ../Drivers/CMSIS/Device/ST/STM32H7xx/Include/stm32h7xx.h \
  ../Drivers/CMSIS/Device/ST/STM32H7xx/Include/stm32h723xx.h \
  ../Drivers/CMSIS/Include/core_cm7.h \
@@ -45,12 +45,12 @@ App/bsp/bsp.o: ../App/bsp/bsp.c ../App/bsp/bsp.h \
  ../Drivers/STM32H7xx_HAL_Driver/Inc/stm32h7xx_hal_tim_ex.h \
  ../Drivers/STM32H7xx_HAL_Driver/Inc/stm32h7xx_hal_uart.h \
  ../Drivers/STM32H7xx_HAL_Driver/Inc/stm32h7xx_hal_uart_ex.h \
- C:/Users/user/Documents/stm32h7/firmware/stm32h7/App/hw/hw_def.h \
- C:/Users/user/Documents/stm32h7/firmware/stm32h7/App/bsp/bsp.h \
+ C:/Users/onste/Documents/TouchGFX-Project/stm32h7/App/hw/hw_def.h \
+ C:/Users/onste/Documents/TouchGFX-Project/stm32h7/App/bsp/bsp.h \
  ../Core/Inc/main.h
 ../App/bsp/bsp.h:
-C:/Users/user/Documents/stm32h7/firmware/stm32h7/App/common/def.h:
-C:/Users/user/Documents/stm32h7/firmware/stm32h7/App/common/err_code.h:
+C:/Users/onste/Documents/TouchGFX-Project/stm32h7/App/common/def.h:
+C:/Users/onste/Documents/TouchGFX-Project/stm32h7/App/common/err_code.h:
 ../Drivers/CMSIS/Device/ST/STM32H7xx/Include/stm32h7xx.h:
 ../Drivers/CMSIS/Device/ST/STM32H7xx/Include/stm32h723xx.h:
 ../Drivers/CMSIS/Include/core_cm7.h:
@@ -95,6 +95,6 @@ C:/Users/user/Documents/stm32h7/firmware/stm32h7/App/common/err_code.h:
 ../Drivers/STM32H7xx_HAL_Driver/Inc/stm32h7xx_hal_tim_ex.h:
 ../Drivers/STM32H7xx_HAL_Driver/Inc/stm32h7xx_hal_uart.h:
 ../Drivers/STM32H7xx_HAL_Driver/Inc/stm32h7xx_hal_uart_ex.h:
-C:/Users/user/Documents/stm32h7/firmware/stm32h7/App/hw/hw_def.h:
-C:/Users/user/Documents/stm32h7/firmware/stm32h7/App/bsp/bsp.h:
+C:/Users/onste/Documents/TouchGFX-Project/stm32h7/App/hw/hw_def.h:
+C:/Users/onste/Documents/TouchGFX-Project/stm32h7/App/bsp/bsp.h:
 ../Core/Inc/main.h:

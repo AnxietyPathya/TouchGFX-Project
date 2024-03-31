@@ -12,17 +12,24 @@ screenViewBase::screenViewBase()
     __background.setColor(touchgfx::Color::getColorFromRGB(0, 0, 0));
     add(__background);
 
-    image1.setXY(0, 0);
-    image1.setBitmap(touchgfx::Bitmap(BITMAP_GLASS_THEME_IMAGES_BACKGROUNDS_800X480_FLOATING_RINGS_ID));
-    add(image1);
+    Background.setXY(0, 0);
+    Background.setBitmap(touchgfx::Bitmap(BITMAP_GLASS_THEME_IMAGES_BACKGROUNDS_800X480_FLOATING_RINGS_ID));
+    add(Background);
 
-    digitalClock1.setPosition(234, 209, 332, 62);
-    digitalClock1.setColor(touchgfx::Color::getColorFromRGB(255, 255, 255));
-    digitalClock1.setTypedText(touchgfx::TypedText(T___SINGLEUSE_3DQC));
-    digitalClock1.displayLeadingZeroForHourIndicator(true);
-    digitalClock1.setDisplayMode(touchgfx::DigitalClock::DISPLAY_12_HOUR);
-    digitalClock1.setTime12Hour(10, 10, 0, true);
-    add(digitalClock1);
+    clock.setPosition(278, 209, 245, 62);
+    clock.setColor(touchgfx::Color::getColorFromRGB(255, 255, 255));
+    clock.setTypedText(touchgfx::TypedText(T___SINGLEUSE_3DQC));
+    clock.displayLeadingZeroForHourIndicator(true);
+    clock.setDisplayMode(touchgfx::DigitalClock::DISPLAY_24_HOUR);
+    clock.setTime24Hour(10, 10, 0);
+    add(clock);
+
+    startButton.setXY(261, 333);
+    startButton.setBitmaps(touchgfx::Bitmap(BITMAP_GLASS_THEME_IMAGES_WIDGETS_BUTTON_REGULAR_HEIGHT_60_SMALL_ROUND_ACTIVE_ID), touchgfx::Bitmap(BITMAP_GLASS_THEME_IMAGES_WIDGETS_BUTTON_REGULAR_HEIGHT_60_SMALL_ROUND_PRESSED_ID));
+    startButton.setLabelText(touchgfx::TypedText(T___SINGLEUSE_HEYL));
+    startButton.setLabelColor(touchgfx::Color::getColorFromRGB(0, 0, 0));
+    startButton.setLabelColorPressed(touchgfx::Color::getColorFromRGB(0, 0, 0));
+    add(startButton);
 }
 
 screenViewBase::~screenViewBase()

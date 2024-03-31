@@ -16,11 +16,12 @@ void screenView::tearDownScreen()
     screenViewBase::tearDownScreen();
 }
 
-void screenView::handleTickEvent()
+void screenView::updateTime(rtc_info_t* p_time)
 {
-  if (rtcGetInfo(&time_info))
+  if (p_time != NULL)
   {
-    digitalClock1.setTime24Hour(time_info.time.hours, time_info.time.minutes, time_info.time.seconds);
+    clock.setTime24Hour(p_time->time.hours, p_time->time.minutes, p_time->time.seconds);
+    clock.invalidate();
   }
-
 }
+

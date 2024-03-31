@@ -99,6 +99,8 @@
 "./TouchGFX/generated/images/src/BitmapDatabase.o"
 "./TouchGFX/generated/images/src/SVGDatabase.o"
 "./TouchGFX/generated/images/src/__generated/image_glass_theme_images_backgrounds_800x480_floating_rings.o"
+"./TouchGFX/generated/images/src/__generated/image_glass_theme_images_widgets_button_regular_height_60_small_round_active.o"
+"./TouchGFX/generated/images/src/__generated/image_glass_theme_images_widgets_button_regular_height_60_small_round_pressed.o"
 "./TouchGFX/generated/texts/src/LanguageGb.o"
 "./TouchGFX/generated/texts/src/Texts.o"
 "./TouchGFX/generated/texts/src/TypedTextDatabase.o"

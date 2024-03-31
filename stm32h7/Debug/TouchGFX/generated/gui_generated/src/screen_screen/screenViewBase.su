@@ -59,12 +59,19 @@
 ../Middlewares/ST/touchgfx/framework/include/touchgfx/widgets/TextAreaWithWildcard.hpp:33:7:virtual touchgfx::TextAreaWithWildcardBase::~TextAreaWithWildcardBase()	16	static
 ../Middlewares/ST/touchgfx/framework/include/touchgfx/widgets/TextAreaWithWildcard.hpp:84:41:virtual const UnicodeChar* touchgfx::TextAreaWithOneWildcard::getWildcard1() const	16	static
 ../Middlewares/ST/touchgfx/framework/include/touchgfx/containers/clock/DigitalClock.hpp:101:18:virtual void touchgfx::DigitalClock::setDisplayMode(touchgfx::DigitalClock::DisplayMode)	16	static
+../Middlewares/ST/touchgfx/framework/include/touchgfx/widgets/AbstractButton.hpp:32:7:touchgfx::AbstractButton::~AbstractButton()	16	static
+../Middlewares/ST/touchgfx/framework/include/touchgfx/widgets/AbstractButton.hpp:32:7:virtual touchgfx::AbstractButton::~AbstractButton()	16	static
+../Middlewares/ST/touchgfx/framework/include/touchgfx/TypedText.hpp:41:7:constexpr touchgfx::TypedText& touchgfx::TypedText::operator=(const touchgfx::TypedText&)	16	static
+../Middlewares/ST/touchgfx/framework/include/touchgfx/widgets/ButtonWithLabel.hpp:50:10:void touchgfx::ButtonWithLabel::setLabelText(touchgfx::TypedText)	16	static
+../Middlewares/ST/touchgfx/framework/include/touchgfx/widgets/ButtonWithLabel.hpp:77:10:void touchgfx::ButtonWithLabel::setLabelColor(touchgfx::colortype)	16	static
+../Middlewares/ST/touchgfx/framework/include/touchgfx/widgets/ButtonWithLabel.hpp:94:10:void touchgfx::ButtonWithLabel::setLabelColorPressed(touchgfx::colortype)	16	static
+../Middlewares/ST/touchgfx/framework/include/touchgfx/widgets/ButtonWithLabel.hpp:132:10:void touchgfx::ButtonWithLabel::updateTextPosition()	56	static
 ../Middlewares/ST/touchgfx/framework/include/mvp/View.hpp:36:7:touchgfx::View<screenPresenter>::~View()	16	static
 ../Middlewares/ST/touchgfx/framework/include/mvp/View.hpp:36:7:virtual touchgfx::View<screenPresenter>::~View()	16	static
-../TouchGFX/generated/gui_generated/src/screen_screen/screenViewBase.cpp:9:1:screenViewBase::screenViewBase()	64	static
-../TouchGFX/generated/gui_generated/src/screen_screen/screenViewBase.cpp:28:1:screenViewBase::~screenViewBase()	16	static
-../TouchGFX/generated/gui_generated/src/screen_screen/screenViewBase.cpp:28:1:virtual screenViewBase::~screenViewBase()	16	static
-../TouchGFX/generated/gui_generated/src/screen_screen/screenViewBase.cpp:33:6:virtual void screenViewBase::setupScreen()	16	static
+../TouchGFX/generated/gui_generated/src/screen_screen/screenViewBase.cpp:9:1:screenViewBase::screenViewBase()	96	static
+../TouchGFX/generated/gui_generated/src/screen_screen/screenViewBase.cpp:35:1:screenViewBase::~screenViewBase()	16	static
+../TouchGFX/generated/gui_generated/src/screen_screen/screenViewBase.cpp:35:1:virtual screenViewBase::~screenViewBase()	16	static
+../TouchGFX/generated/gui_generated/src/screen_screen/screenViewBase.cpp:40:6:virtual void screenViewBase::setupScreen()	16	static
 ../Middlewares/ST/touchgfx/framework/include/mvp/View.hpp:39:5:touchgfx::View<T>::View() [with T = screenPresenter]	16	static
 ../Middlewares/ST/touchgfx/framework/include/touchgfx/widgets/TextAreaWithWildcard.hpp:62:7:touchgfx::TextAreaWithOneWildcard::~TextAreaWithOneWildcard()	16	static
 ../Middlewares/ST/touchgfx/framework/include/touchgfx/widgets/TextAreaWithWildcard.hpp:62:7:virtual touchgfx::TextAreaWithOneWildcard::~TextAreaWithOneWildcard()	16	static
@@ -78,3 +85,7 @@
 ../Middlewares/ST/touchgfx/framework/include/touchgfx/containers/clock/AbstractClock.hpp:32:7:virtual touchgfx::AbstractClock::~AbstractClock()	16	static
 ../Middlewares/ST/touchgfx/framework/include/touchgfx/containers/clock/DigitalClock.hpp:37:7:touchgfx::DigitalClock::~DigitalClock()	16	static
 ../Middlewares/ST/touchgfx/framework/include/touchgfx/containers/clock/DigitalClock.hpp:37:7:virtual touchgfx::DigitalClock::~DigitalClock()	16	static
+../Middlewares/ST/touchgfx/framework/include/touchgfx/widgets/Button.hpp:31:7:touchgfx::Button::~Button()	16	static
+../Middlewares/ST/touchgfx/framework/include/touchgfx/widgets/Button.hpp:31:7:virtual touchgfx::Button::~Button()	16	static
+../Middlewares/ST/touchgfx/framework/include/touchgfx/widgets/ButtonWithLabel.hpp:38:7:touchgfx::ButtonWithLabel::~ButtonWithLabel()	16	static
+../Middlewares/ST/touchgfx/framework/include/touchgfx/widgets/ButtonWithLabel.hpp:38:7:virtual touchgfx::ButtonWithLabel::~ButtonWithLabel()	16	static

@@ -26,10 +26,10 @@ public:
     virtual void deactivate();
 
     virtual ~screenPresenter() {}
-
+    virtual void getTimeInfo(rtc_info_t* p_time);
 private:
     screenPresenter();
-
+    rtc_info_t info;
     screenView& view;
 };
 

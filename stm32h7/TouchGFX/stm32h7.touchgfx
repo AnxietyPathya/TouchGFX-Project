@@ -6,17 +6,17 @@
         "Components": [
           {
             "Type": "Image",
-            "Name": "image1",
+            "Name": "Background",
             "Width": 800,
             "Height": 480,
             "RelativeFilename": "__generated\\glass_theme_images_backgrounds_800x480_floating_rings.png"
           },
           {
             "Type": "DigitalClock",
-            "Name": "digitalClock1",
-            "X": 234,
+            "Name": "clock",
+            "X": 278,
             "Y": 209,
-            "Width": 332,
+            "Width": 245,
             "Height": 62,
             "TextColor": {
               "Red": 255,
@@ -26,9 +26,21 @@
             "TextId": "__SingleUse_3DQC",
             "DisplaySeconds": true,
             "DisplayLeadingZeroForHourIndicator": true,
-            "UseAmPm": true,
             "InitialHour": 10,
             "InitialMinute": 10
+          },
+          {
+            "Type": "ButtonWithLabel",
+            "Name": "startButton",
+            "X": 261,
+            "Y": 333,
+            "Width": 278,
+            "Height": 104,
+            "Pressed": "__generated\\glass_theme_images_widgets_button_regular_height_60_small_round_pressed.png",
+            "Released": "__generated\\glass_theme_images_widgets_button_regular_height_60_small_round_active.png",
+            "TextId": "__SingleUse_HEYL",
+            "TextRotation": "0",
+            "Preset": "glass_theme\\presets\\button\\regular\\height_60\\small_round_active.json"
           }
         ],
         "Interactions": []

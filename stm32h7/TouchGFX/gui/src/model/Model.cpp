@@ -8,5 +8,8 @@ Model::Model() : modelListener(0)
 
 void Model::tick()
 {
-
+    if (rtcGetInfo(&info))
+    {
+        modelListener->getTimeInfo(&info);
+    }
 }

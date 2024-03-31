@@ -12,6 +12,7 @@ enum LANGUAGES
 
 enum TEXTS
 {
+    T___SINGLEUSE_HEYL,
     T___SINGLEUSE_3DQC,
     NUMBER_OF_TEXT_KEYS
 };
