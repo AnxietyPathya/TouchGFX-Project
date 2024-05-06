@@ -1,8 +1,0 @@
-../App/hw/driver/touch/ft5206.c:43:6:ft5206Init	6
-../App/hw/driver/touch/ft5206.c:91:6:ft5206InitRegs	1
-../App/hw/driver/touch/ft5206.c:100:6:readRegs	2
-../App/hw/driver/touch/ft5206.c:117:6:writeRegs	2
-../App/hw/driver/touch/ft5206.c:133:10:ft5206GetWidth	1
-../App/hw/driver/touch/ft5206.c:138:10:ft5206GetHeight	1
-../App/hw/driver/touch/ft5206.c:143:6:ft5206GetInfo	6
-../App/hw/driver/touch/ft5206.c:194:6:cliCmd	28

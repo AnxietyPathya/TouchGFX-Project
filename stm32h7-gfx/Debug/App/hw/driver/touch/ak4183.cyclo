@@ -1,0 +1,12 @@
+../App/hw/driver/touch/ak4183.c:142:6:do_calibration	1
+../App/hw/driver/touch/ak4183.c:123:6:readRegs	1
+../App/hw/driver/touch/ak4183.c:264:6:ak4183ReadAdc	3
+../App/hw/driver/touch/ak4183.c:284:6:ak4183IsReady	1
+../App/hw/driver/touch/ak4183.c:148:6:check_error_analysis	4
+../App/hw/driver/touch/ak4183.c:192:5:calculate_calibration_coefficient	7
+../App/hw/driver/touch/ak4183.c:107:6:ak4183InitRegs	2
+../App/hw/driver/touch/ak4183.c:64:6:ak4183Init	6
+../App/hw/driver/touch/ak4183.c:289:10:ak4183GetWidth	1
+../App/hw/driver/touch/ak4183.c:294:10:ak4183GetHeight	1
+../App/hw/driver/touch/ak4183.c:299:6:ak4183GetInfo	6
+../App/hw/driver/touch/ak4183.c:351:6:cliCmd	34

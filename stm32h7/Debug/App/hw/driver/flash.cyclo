@@ -1,5 +1,0 @@
-../App/hw/driver/flash.c:48:6:flashInit	1
-../App/hw/driver/flash.c:59:6:flashErase	20
-../App/hw/driver/flash.c:166:6:flashWrite	15
-../App/hw/driver/flash.c:254:6:flashRead	6
-../App/hw/driver/flash.c:288:6:cliFlash	23

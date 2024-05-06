@@ -1,0 +1,7 @@
+../TouchGFX/generated/texts/src/TypedTextDatabase.cpp:385:1:void __static_initialization_and_destruction_0(int, int)	3
+../TouchGFX/generated/texts/src/TypedTextDatabase.cpp:324:43:const touchgfx::TypedText::TypedTextData* TypedTextDatabase::getInstance(touchgfx::LanguageId)	1
+../TouchGFX/generated/texts/src/TypedTextDatabase.cpp:329:10:uint16_t TypedTextDatabase::getInstanceSize()	1
+../TouchGFX/generated/texts/src/TypedTextDatabase.cpp:334:24:const touchgfx::Font** TypedTextDatabase::getFonts()	1
+../TouchGFX/generated/texts/src/TypedTextDatabase.cpp:339:23:const touchgfx::Font* TypedTextDatabase::setFont(touchgfx::FontId, const touchgfx::Font*)	1
+../TouchGFX/generated/texts/src/TypedTextDatabase.cpp:346:6:void TypedTextDatabase::resetFont(touchgfx::FontId)	12
+../TouchGFX/generated/texts/src/TypedTextDatabase.cpp:385:1:cpp)	1

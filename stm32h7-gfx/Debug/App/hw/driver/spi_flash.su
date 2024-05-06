@@ -1,0 +1,15 @@
+../App/hw/driver/spi_flash.c:415:6:spiFlashTransfer	16	static
+../App/hw/driver/spi_flash.c:310:6:spiFlashGetID	24	static
+../App/hw/driver/spi_flash.c:337:6:spiFlashWriteEnable	24	static
+../App/hw/driver/spi_flash.c:377:6:spiFlashWaitBusy	24	static
+../App/hw/driver/spi_flash.c:67:6:spiFlashIsInit	0	static
+../App/hw/driver/spi_flash.c:72:6:spiFlashReset	16	static
+../App/hw/driver/spi_flash.c:30:6:spiFlashInit	16	static
+../App/hw/driver/spi_flash.c:106:6:spiFlashRead	24	static
+../App/hw/driver/spi_flash.c:238:6:spiFlashEraseBlock	16	static
+../App/hw/driver/spi_flash.c:197:6:spiFlashErase	16	static
+../App/hw/driver/spi_flash.c:267:6:spiFlashEraseSector	16	static
+../App/hw/driver/spi_flash.c:296:10:spiFlashGetAddr	0	static
+../App/hw/driver/spi_flash.c:301:10:spiFlashGetLength	0	static
+../App/hw/driver/spi_flash.c:131:6:spiFlashWrite	40	static
+../App/hw/driver/spi_flash.c:427:6:cliCmd	288	static

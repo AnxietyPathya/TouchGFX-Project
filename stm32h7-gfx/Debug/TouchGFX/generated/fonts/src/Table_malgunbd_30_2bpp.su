@@ -1,0 +1,2 @@
+../TouchGFX/generated/fonts/src/Table_malgunbd_30_2bpp.cpp:36:172:void __tcf_0()	0	static
+../TouchGFX/generated/fonts/src/Table_malgunbd_30_2bpp.cpp:34:26:touchgfx::GeneratedFont& getFont_malgunbd_30_2bpp()	64	static

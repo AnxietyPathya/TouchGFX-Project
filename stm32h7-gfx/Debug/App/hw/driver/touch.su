@@ -1,0 +1,6 @@
+../App/hw/driver/touch.c:40:6:touchInit	8	static
+../App/hw/driver/touch.c:69:6:touchGetInfo	24	static
+../App/hw/driver/touch.c:111:6:cliCmd	120	static
+../App/hw/driver/touch.c:60:6:touchClear	56	static
+../App/hw/driver/touch.c:100:6:touchSetEnable	0	static
+../App/hw/driver/touch.c:106:6:touchGetEnable	0	static

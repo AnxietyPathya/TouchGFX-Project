@@ -1,0 +1,133 @@
+################################################################################
+# Automatically-generated file. Do not edit!
+# Toolchain: GNU Tools for STM32 (12.3.rel1)
+################################################################################
+
+# Add inputs and outputs from these tool invocations to the build variables 
+O_SRCS += \
+../TouchGFX/build/MINGW32_NT-6.2/generated/fonts/src/ApplicationFontProvider.o \
+../TouchGFX/build/MINGW32_NT-6.2/generated/fonts/src/CachedFont.o \
+../TouchGFX/build/MINGW32_NT-6.2/generated/fonts/src/FontCache.o \
+../TouchGFX/build/MINGW32_NT-6.2/generated/fonts/src/Font_NanumBarunGothic_17_2bpp_0.o \
+../TouchGFX/build/MINGW32_NT-6.2/generated/fonts/src/Font_NanumBarunGothic_17_2bpp_10.o \
+../TouchGFX/build/MINGW32_NT-6.2/generated/fonts/src/Font_NanumBarunGothic_17_2bpp_11.o \
+../TouchGFX/build/MINGW32_NT-6.2/generated/fonts/src/Font_NanumBarunGothic_17_2bpp_12.o \
+../TouchGFX/build/MINGW32_NT-6.2/generated/fonts/src/Font_NanumBarunGothic_17_2bpp_13.o \
+../TouchGFX/build/MINGW32_NT-6.2/generated/fonts/src/Font_NanumBarunGothic_17_2bpp_14.o \
+../TouchGFX/build/MINGW32_NT-6.2/generated/fonts/src/Font_NanumBarunGothic_17_2bpp_15.o \
+../TouchGFX/build/MINGW32_NT-6.2/generated/fonts/src/Font_NanumBarunGothic_17_2bpp_16.o \
+../TouchGFX/build/MINGW32_NT-6.2/generated/fonts/src/Font_NanumBarunGothic_17_2bpp_17.o \
+../TouchGFX/build/MINGW32_NT-6.2/generated/fonts/src/Font_NanumBarunGothic_17_2bpp_18.o \
+../TouchGFX/build/MINGW32_NT-6.2/generated/fonts/src/Font_NanumBarunGothic_17_2bpp_19.o \
+../TouchGFX/build/MINGW32_NT-6.2/generated/fonts/src/Font_NanumBarunGothic_17_2bpp_21.o \
+../TouchGFX/build/MINGW32_NT-6.2/generated/fonts/src/Font_NanumBarunGothic_17_2bpp_22.o \
+../TouchGFX/build/MINGW32_NT-6.2/generated/fonts/src/Font_NanumBarunGothic_17_2bpp_23.o \
+../TouchGFX/build/MINGW32_NT-6.2/generated/fonts/src/Font_NanumBarunGothic_17_2bpp_24.o \
+../TouchGFX/build/MINGW32_NT-6.2/generated/fonts/src/Font_NanumBarunGothic_17_2bpp_25.o \
+../TouchGFX/build/MINGW32_NT-6.2/generated/fonts/src/Font_NanumBarunGothic_17_2bpp_26.o \
+../TouchGFX/build/MINGW32_NT-6.2/generated/fonts/src/Font_NanumBarunGothic_17_2bpp_4.o \
+../TouchGFX/build/MINGW32_NT-6.2/generated/fonts/src/Font_NanumBarunGothic_17_2bpp_6.o \
+../TouchGFX/build/MINGW32_NT-6.2/generated/fonts/src/Font_NanumBarunGothic_17_2bpp_9.o \
+../TouchGFX/build/MINGW32_NT-6.2/generated/fonts/src/Font_NanumBarunGothic_20_2bpp_0.o \
+../TouchGFX/build/MINGW32_NT-6.2/generated/fonts/src/Font_NanumBarunGothic_20_2bpp_10.o \
+../TouchGFX/build/MINGW32_NT-6.2/generated/fonts/src/Font_NanumBarunGothic_20_2bpp_11.o \
+../TouchGFX/build/MINGW32_NT-6.2/generated/fonts/src/Font_NanumBarunGothic_20_2bpp_12.o \
+../TouchGFX/build/MINGW32_NT-6.2/generated/fonts/src/Font_NanumBarunGothic_20_2bpp_13.o \
+../TouchGFX/build/MINGW32_NT-6.2/generated/fonts/src/Font_NanumBarunGothic_20_2bpp_14.o \
+../TouchGFX/build/MINGW32_NT-6.2/generated/fonts/src/Font_NanumBarunGothic_20_2bpp_15.o \
+../TouchGFX/build/MINGW32_NT-6.2/generated/fonts/src/Font_NanumBarunGothic_20_2bpp_16.o \
+../TouchGFX/build/MINGW32_NT-6.2/generated/fonts/src/Font_NanumBarunGothic_20_2bpp_17.o \
+../TouchGFX/build/MINGW32_NT-6.2/generated/fonts/src/Font_NanumBarunGothic_20_2bpp_18.o \
+../TouchGFX/build/MINGW32_NT-6.2/generated/fonts/src/Font_NanumBarunGothic_20_2bpp_19.o \
+../TouchGFX/build/MINGW32_NT-6.2/generated/fonts/src/Font_NanumBarunGothic_20_2bpp_21.o \
+../TouchGFX/build/MINGW32_NT-6.2/generated/fonts/src/Font_NanumBarunGothic_20_2bpp_22.o \
+../TouchGFX/build/MINGW32_NT-6.2/generated/fonts/src/Font_NanumBarunGothic_20_2bpp_23.o \
+../TouchGFX/build/MINGW32_NT-6.2/generated/fonts/src/Font_NanumBarunGothic_20_2bpp_24.o \
+../TouchGFX/build/MINGW32_NT-6.2/generated/fonts/src/Font_NanumBarunGothic_20_2bpp_25.o \
+../TouchGFX/build/MINGW32_NT-6.2/generated/fonts/src/Font_NanumBarunGothic_20_2bpp_26.o \
+../TouchGFX/build/MINGW32_NT-6.2/generated/fonts/src/Font_NanumBarunGothic_20_2bpp_4.o \
+../TouchGFX/build/MINGW32_NT-6.2/generated/fonts/src/Font_NanumBarunGothic_20_2bpp_6.o \
+../TouchGFX/build/MINGW32_NT-6.2/generated/fonts/src/Font_NanumBarunGothic_20_2bpp_9.o \
+../TouchGFX/build/MINGW32_NT-6.2/generated/fonts/src/Font_NanumBarunGothic_26_2bpp_0.o \
+../TouchGFX/build/MINGW32_NT-6.2/generated/fonts/src/Font_NanumBarunGothic_26_2bpp_21.o \
+../TouchGFX/build/MINGW32_NT-6.2/generated/fonts/src/Font_NanumBarunGothic_26_2bpp_22.o \
+../TouchGFX/build/MINGW32_NT-6.2/generated/fonts/src/Font_NanumBarunGothic_26_2bpp_23.o \
+../TouchGFX/build/MINGW32_NT-6.2/generated/fonts/src/Font_NanumBarunGothic_26_2bpp_24.o \
+../TouchGFX/build/MINGW32_NT-6.2/generated/fonts/src/Font_NanumBarunGothic_26_2bpp_25.o \
+../TouchGFX/build/MINGW32_NT-6.2/generated/fonts/src/Font_NanumBarunGothic_26_2bpp_26.o \
+../TouchGFX/build/MINGW32_NT-6.2/generated/fonts/src/Font_NanumBarunGothic_26_2bpp_6.o \
+../TouchGFX/build/MINGW32_NT-6.2/generated/fonts/src/Font_NanumBarunGothic_30_2bpp_0.o \
+../TouchGFX/build/MINGW32_NT-6.2/generated/fonts/src/Font_NanumBarunGothic_30_2bpp_10.o \
+../TouchGFX/build/MINGW32_NT-6.2/generated/fonts/src/Font_NanumBarunGothic_30_2bpp_11.o \
+../TouchGFX/build/MINGW32_NT-6.2/generated/fonts/src/Font_NanumBarunGothic_30_2bpp_12.o \
+../TouchGFX/build/MINGW32_NT-6.2/generated/fonts/src/Font_NanumBarunGothic_30_2bpp_13.o \
+../TouchGFX/build/MINGW32_NT-6.2/generated/fonts/src/Font_NanumBarunGothic_30_2bpp_14.o \
+../TouchGFX/build/MINGW32_NT-6.2/generated/fonts/src/Font_NanumBarunGothic_30_2bpp_15.o \
+../TouchGFX/build/MINGW32_NT-6.2/generated/fonts/src/Font_NanumBarunGothic_30_2bpp_16.o \
+../TouchGFX/build/MINGW32_NT-6.2/generated/fonts/src/Font_NanumBarunGothic_30_2bpp_17.o \
+../TouchGFX/build/MINGW32_NT-6.2/generated/fonts/src/Font_NanumBarunGothic_30_2bpp_18.o \
+../TouchGFX/build/MINGW32_NT-6.2/generated/fonts/src/Font_NanumBarunGothic_30_2bpp_19.o \
+../TouchGFX/build/MINGW32_NT-6.2/generated/fonts/src/Font_NanumBarunGothic_30_2bpp_21.o \
+../TouchGFX/build/MINGW32_NT-6.2/generated/fonts/src/Font_NanumBarunGothic_30_2bpp_22.o \
+../TouchGFX/build/MINGW32_NT-6.2/generated/fonts/src/Font_NanumBarunGothic_30_2bpp_23.o \
+../TouchGFX/build/MINGW32_NT-6.2/generated/fonts/src/Font_NanumBarunGothic_30_2bpp_24.o \
+../TouchGFX/build/MINGW32_NT-6.2/generated/fonts/src/Font_NanumBarunGothic_30_2bpp_25.o \
+../TouchGFX/build/MINGW32_NT-6.2/generated/fonts/src/Font_NanumBarunGothic_30_2bpp_26.o \
+../TouchGFX/build/MINGW32_NT-6.2/generated/fonts/src/Font_NanumBarunGothic_30_2bpp_4.o \
+../TouchGFX/build/MINGW32_NT-6.2/generated/fonts/src/Font_NanumBarunGothic_30_2bpp_6.o \
+../TouchGFX/build/MINGW32_NT-6.2/generated/fonts/src/Font_NanumBarunGothic_30_2bpp_9.o \
+../TouchGFX/build/MINGW32_NT-6.2/generated/fonts/src/Font_NanumBarunGothic_38_2bpp_0.o \
+../TouchGFX/build/MINGW32_NT-6.2/generated/fonts/src/Font_NanumBarunGothic_38_2bpp_10.o \
+../TouchGFX/build/MINGW32_NT-6.2/generated/fonts/src/Font_NanumBarunGothic_38_2bpp_11.o \
+../TouchGFX/build/MINGW32_NT-6.2/generated/fonts/src/Font_NanumBarunGothic_38_2bpp_12.o \
+../TouchGFX/build/MINGW32_NT-6.2/generated/fonts/src/Font_NanumBarunGothic_38_2bpp_13.o \
+../TouchGFX/build/MINGW32_NT-6.2/generated/fonts/src/Font_NanumBarunGothic_38_2bpp_14.o \
+../TouchGFX/build/MINGW32_NT-6.2/generated/fonts/src/Font_NanumBarunGothic_38_2bpp_15.o \
+../TouchGFX/build/MINGW32_NT-6.2/generated/fonts/src/Font_NanumBarunGothic_38_2bpp_16.o \
+../TouchGFX/build/MINGW32_NT-6.2/generated/fonts/src/Font_NanumBarunGothic_38_2bpp_17.o \
+../TouchGFX/build/MINGW32_NT-6.2/generated/fonts/src/Font_NanumBarunGothic_38_2bpp_18.o \
+../TouchGFX/build/MINGW32_NT-6.2/generated/fonts/src/Font_NanumBarunGothic_38_2bpp_19.o \
+../TouchGFX/build/MINGW32_NT-6.2/generated/fonts/src/Font_NanumBarunGothic_38_2bpp_21.o \
+../TouchGFX/build/MINGW32_NT-6.2/generated/fonts/src/Font_NanumBarunGothic_38_2bpp_22.o \
+../TouchGFX/build/MINGW32_NT-6.2/generated/fonts/src/Font_NanumBarunGothic_38_2bpp_23.o \
+../TouchGFX/build/MINGW32_NT-6.2/generated/fonts/src/Font_NanumBarunGothic_38_2bpp_24.o \
+../TouchGFX/build/MINGW32_NT-6.2/generated/fonts/src/Font_NanumBarunGothic_38_2bpp_25.o \
+../TouchGFX/build/MINGW32_NT-6.2/generated/fonts/src/Font_NanumBarunGothic_38_2bpp_26.o \
+../TouchGFX/build/MINGW32_NT-6.2/generated/fonts/src/Font_NanumBarunGothic_38_2bpp_4.o \
+../TouchGFX/build/MINGW32_NT-6.2/generated/fonts/src/Font_NanumBarunGothic_38_2bpp_6.o \
+../TouchGFX/build/MINGW32_NT-6.2/generated/fonts/src/Font_NanumBarunGothic_38_2bpp_9.o \
+../TouchGFX/build/MINGW32_NT-6.2/generated/fonts/src/Font_malgun_18_2bpp_0.o \
+../TouchGFX/build/MINGW32_NT-6.2/generated/fonts/src/Font_malgunbd_30_2bpp_0.o \
+../TouchGFX/build/MINGW32_NT-6.2/generated/fonts/src/Font_verdana_18_2bpp_0.o \
+../TouchGFX/build/MINGW32_NT-6.2/generated/fonts/src/Font_verdana_25_2bpp_0.o \
+../TouchGFX/build/MINGW32_NT-6.2/generated/fonts/src/Font_verdana_30_2bpp_0.o \
+../TouchGFX/build/MINGW32_NT-6.2/generated/fonts/src/Font_verdana_40_2bpp_0.o \
+../TouchGFX/build/MINGW32_NT-6.2/generated/fonts/src/GeneratedFont.o \
+../TouchGFX/build/MINGW32_NT-6.2/generated/fonts/src/Kerning_NanumBarunGothic_17_2bpp.o \
+../TouchGFX/build/MINGW32_NT-6.2/generated/fonts/src/Kerning_NanumBarunGothic_20_2bpp.o \
+../TouchGFX/build/MINGW32_NT-6.2/generated/fonts/src/Kerning_NanumBarunGothic_26_2bpp.o \
+../TouchGFX/build/MINGW32_NT-6.2/generated/fonts/src/Kerning_NanumBarunGothic_30_2bpp.o \
+../TouchGFX/build/MINGW32_NT-6.2/generated/fonts/src/Kerning_NanumBarunGothic_38_2bpp.o \
+../TouchGFX/build/MINGW32_NT-6.2/generated/fonts/src/Kerning_malgun_18_2bpp.o \
+../TouchGFX/build/MINGW32_NT-6.2/generated/fonts/src/Kerning_malgunbd_30_2bpp.o \
+../TouchGFX/build/MINGW32_NT-6.2/generated/fonts/src/Kerning_verdana_18_2bpp.o \
+../TouchGFX/build/MINGW32_NT-6.2/generated/fonts/src/Kerning_verdana_25_2bpp.o \
+../TouchGFX/build/MINGW32_NT-6.2/generated/fonts/src/Kerning_verdana_30_2bpp.o \
+../TouchGFX/build/MINGW32_NT-6.2/generated/fonts/src/Kerning_verdana_40_2bpp.o \
+../TouchGFX/build/MINGW32_NT-6.2/generated/fonts/src/Table_NanumBarunGothic_17_2bpp.o \
+../TouchGFX/build/MINGW32_NT-6.2/generated/fonts/src/Table_NanumBarunGothic_20_2bpp.o \
+../TouchGFX/build/MINGW32_NT-6.2/generated/fonts/src/Table_NanumBarunGothic_26_2bpp.o \
+../TouchGFX/build/MINGW32_NT-6.2/generated/fonts/src/Table_NanumBarunGothic_30_2bpp.o \
+../TouchGFX/build/MINGW32_NT-6.2/generated/fonts/src/Table_NanumBarunGothic_38_2bpp.o \
+../TouchGFX/build/MINGW32_NT-6.2/generated/fonts/src/Table_malgun_18_2bpp.o \
+../TouchGFX/build/MINGW32_NT-6.2/generated/fonts/src/Table_malgunbd_30_2bpp.o \
+../TouchGFX/build/MINGW32_NT-6.2/generated/fonts/src/Table_verdana_18_2bpp.o \
+../TouchGFX/build/MINGW32_NT-6.2/generated/fonts/src/Table_verdana_25_2bpp.o \
+../TouchGFX/build/MINGW32_NT-6.2/generated/fonts/src/Table_verdana_30_2bpp.o \
+../TouchGFX/build/MINGW32_NT-6.2/generated/fonts/src/Table_verdana_40_2bpp.o \
+../TouchGFX/build/MINGW32_NT-6.2/generated/fonts/src/UnmappedDataFont.o \
+../TouchGFX/build/MINGW32_NT-6.2/generated/fonts/src/VectorFontRendererBuffers.o 
+
+
+# Each subdirectory must supply rules for building sources it contributes
+

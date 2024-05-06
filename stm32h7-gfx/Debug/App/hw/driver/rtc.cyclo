@@ -1,0 +1,9 @@
+../App/hw/driver/rtc.c:17:6:rtcInit	2
+../App/hw/driver/rtc.c:45:6:rtcGetInfo	3
+../App/hw/driver/rtc.c:68:6:rtcGetTime	3
+../App/hw/driver/rtc.c:87:6:rtcGetDate	3
+../App/hw/driver/rtc.c:121:6:rtcSetTime	4
+../App/hw/driver/rtc.c:143:6:rtcSetDate	4
+../App/hw/driver/rtc.c:192:6:cliRtc	14
+../App/hw/driver/rtc.c:165:6:rtcSetReg	2
+../App/hw/driver/rtc.c:178:6:rtcGetReg	2

@@ -1,0 +1,14 @@
+../App/hw/driver/spi.c:36:6:spiInit	4	static
+../App/hw/driver/spi.c:55:6:spiBegin	24	static
+../App/hw/driver/spi.c:104:6:spiSetDataMode	8	static
+../App/hw/driver/spi.c:144:6:spiSetBitWidth	0	static
+../App/hw/driver/spi.c:171:9:spiTransfer8	32	static
+../App/hw/driver/spi.c:184:10:spiTransfer16	40	static
+../App/hw/driver/spi.c:212:6:spiTransfer	24	static
+../App/hw/driver/spi.c:241:6:spiTransferDMA	32	static
+../App/hw/driver/spi.c:290:6:spiDmaTxStart	8	static
+../App/hw/driver/spi.c:328:6:spiDmaTxIsDone	0	static
+../App/hw/driver/spi.c:300:6:spiDmaTxTransfer	24	static
+../App/hw/driver/spi.c:337:6:spiAttachTxInterrupt	0	static
+../App/hw/driver/spi.c:348:6:HAL_SPI_RxCpltCallback	0	static
+../App/hw/driver/spi.c:356:6:HAL_SPI_ErrorCallback	0	static
